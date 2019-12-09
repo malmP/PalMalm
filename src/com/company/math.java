@@ -10,4 +10,5 @@ public class math {
 
 
  int d = b-a;
+ Sum1=2;
 }
