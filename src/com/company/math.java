@@ -4,9 +4,9 @@ import org.w3c.dom.ls.LSOutput;
 
 public class math {
 
-    int a = 5;
-    int b = 6;
-    int c = a + b;
+    int x = 5;
+    int y = 6;
+    int z = a + b;
 
 
  int d = b-a;
